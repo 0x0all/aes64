@@ -2,7 +2,7 @@
  *                                                                     *  
  *  AES-256-CBC file crypter/ cpu CORE i5/i7 support                   * 
  *                                                                     *
- *  (c) Ostrovsky Alexey, info@anketer.org, 2013                       * 
+ *  (c) Ostrovsky Alexey, 2013                                         * 
  *                                                                     *  
  * --------------------------------------------------------------------*/
  
